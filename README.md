@@ -14,7 +14,7 @@ This actvities help  you about to taking the automatic backup of your server and
 - Create lifecycle policy
   - navigate  to  : EC2 > Lifecycle Manager > Select policy type > Create lifecycle policy
   - follow the below step :
-  ```git
+  ````git
   Step 1:	
 	Target Resources : 
 		Type : voume 
@@ -33,7 +33,7 @@ step 2 :
 		sechedule name : daily backup 
 		frequency : daily 
 		Every : 12 hour
-		Starting at : 01;00 utc
+		Starting at : 01:00 utc
 		Retention type : count , keep : 2 
-  ```
+  ````
 
