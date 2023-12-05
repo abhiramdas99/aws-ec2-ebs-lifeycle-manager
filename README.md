@@ -28,7 +28,6 @@ This actvities help  you about to taking the automatic backup of your server and
 	
 	Policy Status : enabled
 ```
-```git
 step 2 : 
 	Schedule Detail :
 		sechedule name : daily backup 
